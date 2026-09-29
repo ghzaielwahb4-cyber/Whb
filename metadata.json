@@ -1,0 +1,6 @@
+{
+  "name": "Forno & Fuoco Artisanal Pizza",
+  "description": "Authentic Neapolitan wood-fired pizzas crafted with 48-hour slow-fermented sourdough, San Marzano tomatoes, and artisanal toppings. Order online for hot doorstep delivery or pickup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
